@@ -11,7 +11,7 @@
   float:left;
   width:100%;
   height:25%;
-  background: #F09;
+  background: #B3FBBD;;
   text-align:center;
   color:#000;
   font-size:4em;
@@ -28,7 +28,7 @@
 	float:left;
 	height:100%;
 	outline:#000 solid 3px;
-	background: #F9F;
+	background: #F5FD9F;
     width:7.142856%;
 }
 .nota1 {
@@ -46,6 +46,11 @@
 	font-weight:bold;
 	color:#000;
 
+}
+.tocada {
+	background: #3F3;
+	color: #FFF;
+	outline: #FF0 solid 1px;
 }
 
 #doS{
